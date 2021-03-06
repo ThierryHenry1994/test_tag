@@ -1,1 +1,1 @@
-print("zhu")
+pritt("zhu-3i")
