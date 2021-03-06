@@ -1,1 +1,1 @@
-print("shi.txt")
+arint("qwhi.txt")
